@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Quinn-You
+- 👋 Hi, I’m @youuuu
 - 👀 I’m interested in ai
 - 🌱 I’m currently learning cs and physics
 - 💞️ I’m looking to collaborate on cs and ai
